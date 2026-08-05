@@ -56,3 +56,5 @@ gallery-dl
 
 # The nix development setup puts gems here
 /vendor/bundle
+/.env.development
+/.env.test
